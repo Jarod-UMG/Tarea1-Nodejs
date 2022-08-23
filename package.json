@@ -1,0 +1,32 @@
+{
+  "name": "crud_node_js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "6": "^0.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "install": "^0.13.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.19",
+    "npm": "^8.18.0",
+    "pug": "^3.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carpaiz/nodjs_crud.git"
+  },
+  "bugs": {
+    "url": "https://github.com/carpaiz/nodjs_crud/issues"
+  },
+  "homepage": "https://github.com/carpaiz/nodjs_crud#readme",
+  "description": ""
+}
